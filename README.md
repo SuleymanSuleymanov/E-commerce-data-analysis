@@ -70,6 +70,7 @@ Invalid records were flagged and excluded from delivery time calculations to ens
 
 ## 📊 Key Metrics & Analysis
 
+
 The dashboard focuses on a limited set of **high-impact KPIs**:
 
 - Delivery success rate
@@ -81,12 +82,11 @@ The number of visuals was intentionally limited to avoid visual noise and keep i
 ---
 
 ## 📈 Key Insights
-
-- The majority of delivered orders arrive on time or earlier
-- A small portion of records contained invalid delivery timelines, indicating data quality issues in the source system
-- Average delivery duration for on-time orders shows a decreasing trend over time, suggesting improvements in logistics efficiency
-
----
+- Delivery delays spiked sharply in Jan–Mar 2018: +120.5% in February and +51.4% in March, peaking at 1,530 late deliveries
+- February spike was driven by the **Computer Accessories** category showing disproportionately high delay rates
+- March peak was linked to **Brazil's carnival season**, causing nationwide logistics overload — confirmed by uniform delay distribution across all regions (ruling out local supply chain issues)
+- Regional and operational factors were ruled out: estimated delivery time remained stable at 30–37 days throughout the period
+- After March 2018, late delivery counts declined consistently, suggesting the disruption was seasonal rather than structural
 
 ## 🛠 Tools & Technologies
 
@@ -111,3 +111,11 @@ The number of visuals was intentionally limited to avoid visual noise and keep i
 ├── analysis
 └── README.md
 ```
+---
+## 📸 Dashboard Preview
+
+![February Crisis](images/february_crisis.png)
+
+![March Crisis](images/march_crisis.png)
+
+![Dashboard Overview](images/second_page.png)
