@@ -114,7 +114,7 @@ The number of visuals was intentionally limited to avoid visual noise and keep i
 ---
 ## 📸 Dashboard Preview
 
-![February Crisis](images/february_crisis.png)
+![February Crisis](images/february.png)
 
 ![March Crisis](images/march_crisis.png)
 
